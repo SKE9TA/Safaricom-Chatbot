@@ -1,0 +1,751 @@
+FAQ 1:
+Question: Make Ur Bundle
+Linked Answer: What is Make Ur Bundle? 
+
+This is a Do-It-Yourself bundle that will allow customers to enjoy data and voice in an integrated or standalone bundle. Customers will be able to select a preferred price point, validity and a mix of data and voice. Customers will access the offer via USSD, Web & App.
+
+What is the price range for the Make Ur Bundle subscription? 
+
+Currently the bundle allows subscription at any price point between Sh1 - 1,150.
+
+Who is eligible for Make Ur Bundle? 
+
+All customers (prepaid and postpaid) are eligible for the bundle.
+
+How do I purchase Make Ur Bundle? 
+
+You can purchase the bundle via *544#, *444# and *555#(for Blaze). The bundle will also be available via Safaricom App and Web.
+
+How can I check my remaining Make Ur Bundle balance?
+
+You can check your account balance through dialing *544#, *444# or *555#, then Balance & Tips and then choosing Balance option. You shall then receive an SMS with all account balances.
+
+Can I use Make Ur Bundle Data resources to access any internet site? 
+
+Yes. Awarded data resources will have no restrictions in terms of content that can be accessed.
+
+When my Make Ur Bundle expires, what will happen to my unused data? 
+
+Any unused data shall not be rolled over.
+
+Can I purchase multiple Make Ur Bundle at a given time? 
+
+Yes, you can purchase the bundles as many times without any restriction.
+==============================
+FAQ 2:
+Question: M-PESA Business One Account
+Linked Answer: What is M-PESA Business One Account?
+
+This is a service that enables organizations to use one Lipa na M-PESA short code to collect and disburse funds. It combines the Paybill and B2C products in one short code.
+
+How does the M-PESA Business One Account work?
+
+It combines the Paybill and B2C services in one short code. Organizations can receive Paybill áápayments on their utility account and make B2C payments from the same.
+
+Who is eligible for the M-PESA Business One Account?
+
+All organizations and institutions that use or intend to use Paybill and B2C services.
+
+Will organizations having both Paybill and B2C be required to use Business One Account?
+
+No. This is an optional service for those who want to use it. Organizations can still choose to have separate short codes for Paybill and B2C.
+
+Will the organizations using Business One Account be assigned new products?
+
+No. There is no new product. Instead, they will have two products, Paybill Product and B2C Product in one short code.
+
+Why should a business with both a Paybill and B2C migrate to the Business One Account? 
+
+
+It is a super M-PESA short code that allows both collection and disbursement of funds from one short code
+It has a simplified onboarding process
+
+
+How can I apply for the Business One Account solution?
+
+You can apply online via https://m-pesaforbusiness.co.ke/á
+You may also fill an application form and send back with the required documentation via email to This email address is being protected from spambots. You need JavaScript enabled to view it.
+Kindly contact us through the support line below, or through the organization account manager for further assistance.
+
+What are the charges for this service?
+
+The Paybill Tariffs (Business Bouquet, Customer Bouquet, and Mgao Tariffs) remain the same. Similarly, B2C tariffs remain unchanged. Click on the link below to view the tariffs.
+https://www.safaricom.co.ke/personal/m-pesa/lipa-na-m-pesa/m-pesa-paybill
+
+Previously, the Paybill Business Web Operator role could not disburse funds. Does this change?
+
+Yes. On the Business One Account service, the Business Web Operator who is assigned to the Paybill product will now be able to disburse funds. However, any disbursement initiated must be approved by another operator with a Business Manager role. This change applies only to the organizations that will use this Business One Account.
+
+Can I download statements?
+
+Yes. On the M-PESA portal select Review Transaction>Account Type>Set Desired Start and End Date>Search>Export.
+
+For any queries contact?
+
+
+Email: This email address is being protected from spambots. You need JavaScript enabled to view it.
+Call: 0722002222 or 2222, 100 or 200
+Twitter: @SafaricomPLC
+Facebook: SafaricomPLC
+==============================
+FAQ 3:
+Question: VoLTE FAQs
+Linked Answer: What is VoLTE? 
+
+
+Voice over LTE (VoLTE) is an advanced technology that delivers high-quality life-like sound over voice and video calls across the 4G network.
+
+
+Why should I be on VoLTE?
+
+
+
+Customers on VoLTE will Enjoy HD(High definition) calls and video calls that will be ultra clear with reduced background noise.
+In addition the calls can be enhanced if both parties are on VoLTE capable devices and located in a 4G location as they can switch to video call seamlessly within call.
+Consumers will have a more enriched conversation, i.e. they can now make calls whilst browsing.
+Customers on VoLTE will also enjoy fast call set up.
+
+
+
+What do I need to do to enjoy VoLTE Service? 
+
+
+
+Have a VoLTE enabled handset (check if your handset is VoLTE enabled fromáwww.safaricom.co.ke/VoLTE
+Ensure that your handset has been upgraded with the latest software provided by your handset manufacturer by checking under settings -> Software update
+Ensure that you are using a 4G SIM and youÆre calling on 4G network.
+Verify that the VoLTE voice calling feature has been enabled on your smartphone.
+
+
+
+How will I know if I am on VoLTE Service? 
+
+
+For Android users: The ôHD/VoLTEö icon will be shown on the top bar of the screen.
+
+
+Can I use VoLTE with any other network in the US? 
+
+
+Currently, weÆve launched VoLTE service with AT&T network only. This was done on 8th Dec 2022.
+
+
+Will I be able to use roaming if I donÆt activate VoLTE? 
+
+
+Yes you will, however for AT&T, they are not available on 2G & 3G.
+
+
+Do I need a special subscription to use VoLTE service 
+
+
+No, your current roaming plan will support AT&T VoLTE service.
+
+
+How much does VoLTE Service cost? 
+
+
+There are No additional charges on VoLTE, customer will call using airtime or minutes and normal charges will apply.
+
+
+Do I need to have data bundles to make video calls on VoLTE?
+
+
+Customers can make video calls on VoLTE without data resources. The video call will be charged as a normal call from the customers` account.
+
+
+My friend does not have a phone that supports VoLTE. Can I still make calls to him/her using VoLTE? 
+
+
+Yes, you can make VoLTE calls to any phone on any other network just like the voice normal calls.
+
+
+How do I confirm roaming rates? 
+
+
+You can check the applicable roaming rates from Safaricom Roaming.
+
+
+Do you have VoLTE with any other network in US? 
+
+
+No, we currently have launched the service with AT&T only.
+==============================
+FAQ 4:
+Question: New Post Pay Bundle Offers
+Linked Answer: What is the NEW POSTPAY Bundle?
+
+
+POSTPAY bundle is a tariff that allows you to use bundled resources now and pay for them later. The NEW POSTPAY Bundle is the new enriched POSTPAY bundled plans.
+
+
+ Who is eligible for NEW PostPay Bundle?
+
+
+NEW PostPay bundle is open to all Safaricom prepay customers on Uwezo tariff and individual postpay except for corporate accounts.
+
+
+ What are the benefits of the New PostPay bundle?
+
+
+
+ItÆs easy to join via USSD *544#.
+You have five integrated plans to choose from between Ksh 1000 and ksh 10,000
+You can exit PostPay via USSD *200#.
+
+
+
+ How can I sign up for NEW POSTPAY Bundle? 
+
+
+On USSD *544#
+
+Dial *544# select the option Monthly Plans then select Join Postpay
+You will be presented with five integrated plans to choose from
+You will be prompted to enter your email address for billing
+Select a PostPay bundle Plan of choice
+Accept terms and conditions
+You will receive a notification that your line has been moved to Postpay
+
+
+
+ What are the plans on NEW POSTPAY Bundle? 
+
+
+
+
+
+
+Postpay DIY plans {Price}
+
+
+Resources
+
+
+
+
+KShs. 1,000
+
+
+5GB + 2GBYT+400 Mins + 1000 SMS
+
+
+
+
+KShs. 2,000
+
+
+15GB +2GBYT+ 1000 Mins + 2000 SMS
+
+
+
+
+KShs. 3,000
+
+
+25GB +2GBYT+ 1500 Mins + 3000 SMS
+
+
+
+
+KShs. 5000
+
+
+45GB + 2500 Mins 2GBYT++ 5000 SMS()*
+
+
+
+
+KShs. 10,000
+
+
+100GB +2GBYT+ 7500 Mins + 10000 SMS*
+
+
+
+
+5k and 10k plans customers will continue accessing internet at 3Mbps after exhausting data bundle. all plans come with free WhatsApp to be used when customer exhausts data.
+
+
+ Can I purchase a bundle with my credit limit? 
+
+
+Yes, you can use your credit limit to buy a plan.
+
+
+ Will the bundle auto renew? 
+
+
+Yes, the bundle will auto renew every 1st of the month.
+
+
+ Can I use my bundle for chargeable messages?
+
+
+No, you will not be able to use the bundled SMS to access chargeable messages. Top up prepaid airtime or your postpaid balance via paybill 200200 and enter phone number as account number.
+
+
+ Can I use my bundle for Skiza or bank USSD? 
+
+
+You need prepaid airtime balance or postpaid balance. You cannot use the minutes, SMS and data given to renew buy skiza or do bank USSD.
+
+
+ Can I use it for roaming? 
+
+
+No, the PostPay bundles cannot be used for roaming. You top up prepaid airtime or postpaid account via paybill 200200.
+
+
+ Will I earn Bonga points if I purchase PostPay bundles? 
+
+
+Yes, you will earn Bonga points when you purchase the plans.
+
+
+Can I ôSambazaö or transfer resources (bundles and minutes)? 
+
+
+No, you cannot transfer/Sambaza your resources. You can share the data bundle upto three numbers.
+
+
+I recently moved my line to post paid When should I expect to get my bill? 
+
+
+The bill will be sent to the email address you provided on sign up on the first week of every month. Please ensure you settle your bill by the end of the month to avoid being disconnected from the PostPay tariff.
+
+
+What happens if I join and buy a PostPay Bundle after the 1st of the month? 
+
+
+If you sign up after the 1st of the month you will get full resources but you will be charged prorated amount depending on remaining days of the month. On the 1st of the next month, you will be charged the full amount for the resources allocated.
+
+
+Will I be notified when my bundle is about to run out? 
+
+
+Yes, you will be notified for data bundles and minutes. Data bundle at 75MB and 2MB while minutes at 60minutes and 2minutes.
+
+
+Will the resources roll over? 
+
+
+Data bundle will roll over upon renewal of the monthly plan. Minutes and SMS will expire at the end of the month.
+==============================
+FAQ 5:
+Question: M-PESA Roaming Charges
+Linked Answer: How do I access M-PESA Service when roaming? 
+
+
+You can use STK, USSD *334# and M-PESA or Safaricom App.
+
+
+Will I be charged to use the service?
+
+
+Roaming customers will be charged from airtime, credit limit or Postpay bundles whenever they use STK for M-PESA transactions.
+
+
+How much will I be charged? 
+
+
+Roaming SMS charges will apply for send money, balance query/Menu update requests, pay bill, till payments and/or any other STK request originating from the handset.
+
+
+What happens if I donÆt have enough airtime? 
+
+
+Prepaid customers with insufficient airtime will be unable to transact using M-PESA STK option. They will get the notification: ôM-PESA transaction cannot be completed due to insufficient airtime. Dial *334# or use M-PESA/Safaricom App to avoid roaming SMS charges for M-PESA transactionsö.
+==============================
+FAQ 6:
+Question: Bonga For Good
+Linked Answer: What is Bonga For Good? 
+
+
+This is a service which enables you to pay your bills at Lipa Na M-PESA merchants countrywide using your Bonga points.
+
+
+ How can I access Bonga For Good services? 
+
+
+Customer will be required to dial *126# and select ôLipa Na Bongaö and move to enter either the Pay bill or Till Number of the merchant.
+
+
+ What is the conversion rate for Bonga For Good? 
+
+
+Customer will exchange 1 bonga point to KES 30 cents
+
+
+ How will I confirm if I have paid using my Bonga points? 
+
+
+To confirm a transaction, compare the transaction ID you have received with the one from that the merchant has received. To note, All payments paid using Bonga points will come with the customer name æSafaricom BongaÆ
+
+
+ Do I need to reconcile the Bonga payments at the end of the day? 
+
+
+No, you will not. The payment to the till is immediate. No need to reconcile later.
+
+
+ The customer has overpaid their bill. Can I reverse the transaction? 
+
+
+Yes, normal Lipa Na MPESA reversal process will be used. If the customer has sufficient points, the customer can initiate another transaction and indicate the correct amount
+
+
+ What happens if a I pay into a till but have insufficient Bonga Points ? 
+
+
+The customer transaction will only be completed successfully if they have sufficient points in their account.
+
+
+ How can I check the number of points I need to pay for my bill? 
+
+
+To check how many points you will need to pay for your bill, dial *126# select æLipa Na BongaÆ, then select æBonga CalculatorÆ. You will be requested to put in the amount you want to pay. You will get a response showing the number of points you will need to pay your bill.
+
+
+ How will I redeem my points at the till? 
+
+
+To redeem your Bonga Points, simply dial *126# and select ôLipa Na Bonga ô. You will be asked to enter the Till No, the amount you want to pay and your service PIN.
+
+
+
+ How do I check how many Bonga points I have? 
+
+
+To check your Bonga Points, simply dial *126# and select "Check Bonga Balance". You will receive an SMS notification with details of your Bonga account balance.
+
+
+ How can I change or reset my Bonga Pin? 
+
+
+To change or reset your Bonga PIN simply dial *126# and select Set or Change Bonga PIN and follow the prompts.
+
+
+ If I am a corporate client how do I access Bong Points? 
+
+
+For corporate employees who may not be able to see/redeem their points please check with your company administration for further information
+
+
+If I do not have enough Bonga points, can I top up with cash or M-PESA?What is the out of bundle management? 
+
+
+This will be at the merchants discretion. You will need to confirm at the outlet.
+
+
+Are there any extra charges when I pay my bill using my Bonga points? 
+
+
+No, there are no extra charges. Only the Bonga Points value of the bill you are paying will be deducted from your Bonga balance when you redeem.
+
+
+I have keyed in the wrong amount and want my points back. How do I go about it? 
+
+
+If you have put in a lower amount, you may redeem more points to cater for the difference.  If you have keyed in a larger amount, you will need to contact Customer care for them to initiate the reversal. You will receive a confirmation SMS once the points are reversed to your account.
+==============================
+FAQ 7:
+Question: Niokolee Service
+Linked Answer: What is Niokolee? 
+
+This Service allows you to request Kredo from your friends and family.
+
+
+ Who is eligible to use the service? 
+
+
+All Safaricom PrePay subscribers apart from PrePay subscribers who are roaming.
+
+
+How do I make a Niokolee request? 
+
+
+
+Dial *444# from your Safaricom line.
+Select ôNiokoleeö then select ôRequest Kredoö.
+Enter the Safaricom number to request Talktime from (ôthe Benefactorö).
+Select the predefined Talktime amount to request e.g., Ksh 10 then submit.
+
+
+
+ How do I accept a Niokolee request? 
+
+
+You will receive a notification from 44444 asking you to ôAcceptö or ôDeclineö the request.
+Once you accept the request, the selected amount equivalent is moved from you to the requestor and notifications sent to both of you.
+
+
+What messages will I receive? 
+
+
+
+Request notification to you: ôDear Customer, You friend 7XXXXXXXX has requested you to sponsor them with Niokolee Kredo of Ksh XX Reply with 1 to Accept or 2 to Decline. The request expired within 24 hours.ö
+Message to you after you accept the request: ôYou have shared Niokolee Kredo Ksh XX with 7XXXXXXXX. Your new Balance: Ksh ****, expiry date is 16-04-2023.ö
+Message to requestor upon successful request: ôYou have received Niokolee Kredo Ksh XX from 7XXXXXXXX valid until 18-04-2023. To check balance, send Bal to 144ö.
+Message to requestor after unsuccessful request: ôYour Niokolee request to 7XXXXXXXX has been declinedö
+
+
+
+ How do I accept a Niokolee request? 
+
+
+You will receive a notification from 44444 asking you to ôAcceptö or ôDeclineö the request. Once you accept the request, the selected amount equivalent is moved from you to the requestor and notifications sent to you and the requestor.
+
+
+ What is the validity of the minutes? 
+
+
+The resources will have a validity of 24 hours.
+
+
+ What is the maximum Talktime one can request for? 
+
+
+One can request up to Ksh 100. The options will be available on the menu as from 10,20, 30, 50 and 100.
+
+
+ Will purchase of another bundle extend Validity? 
+
+
+Any unused Niokolee Kredo will not be carried over after the lapse of the validity period.
+
+
+ How many times can I request for Niokolee? 
+
+
+You can only initiate a maximum of 2 Niokolee requests per day and any subsequent request will be automatically declined by the system.
+Equally, you can make a maximum of 10 Niokolee requests in a month, any subsequent request will be automatically declined by the system.
+
+
+ Can I be a requestor and a sponsor to another number?
+
+
+Yes, you can be a requestor and still share airtime that you have purchased. However, you cannot share the Kredo that has been shared from another sponsor.
+
+
+How do I check my balance?
+
+
+Balance check on USSD *444# or send SMS to144 to show the balance of all the resources remaining Minutes.
+
+
+Can I buy other Minutes & airtime bundles when Subscribed to the bundle?
+
+
+No. you cannot purchase other resources from shared Niokolee Kredo.
+
+
+ Can I use the Kredo to call across networks? 
+
+
+Yes, the resources can be used for both on-net and off-net for both calls and SMS.
+
+
+ Can I use Niokolee Kredo to make international calls? 
+
+
+No, the Niokolee airtime cannot be used to make international calls.
+
+
+ Can I use Niokolee Kredo while roaming?
+
+
+No, Niokolee Talktime is usable only while within Kenya.
+
+
+ Can I share Niokolee Kredo to a number from another network? 
+
+
+Niokolee sharing service is only available to customers on the Safaricom network
+
+
+ What is the priority of usage once I become a beneficiary?
+
+
+The priority will be Free resources, hourly resources and the shared Kredo
+==============================
+FAQ 8:
+Question: 4G Internet For Business
+Linked Answer: What are Fixed Wireless Access products? 
+
+
+This is a fast and affordable internet connection for small to medium sized businesses based on the revised packages and wireless technology.
+
+
+ What is the main change? 
+
+
+The main change will give more value-for-money to customers:
+
+New packages have larger volumes, with 56% more on Bronze.
+Prices remain unchanged for all the packages, including the unlimited packages.
+Existing customer will receive higher allocation in the next billing cycle after the cutover date. No migrations will be needed.
+
+
+
+ What packages can I subscribe to on Fixed Wireless Access products? 
+
+
+You can subscribe to the following packages on a post-pay plans:
+
+
+
+
+Package
+
+
+Current Bundle
+(GB)
+
+
+New Date Bundle (GB)
+
+
+Price
+
+
+More
+Volume
+
+
+
+
+Bronze
+
+
+90
+
+
+140
+
+
+2,999
+
+
+56%
+
+
+
+
+Silver
+
+
+120
+
+
+180
+
+
+4,100
+
+
+50%
+
+
+
+
+Gold
+
+
+200
+
+
+250
+
+
+6,299
+
+
+25%
+
+
+
+
+Diamond
+
+
+400
+
+
+500
+
+
+12,499
+
+
+25%
+
+
+
+
+3Mbps Unlimited
+
+
+1004
+
+
+1004
+
+
+32,997
+
+
+-
+
+
+
+
+5Mbps Unlimited
+
+
+1674
+
+
+1674
+
+
+54,995
+
+
+-
+
+
+
+
+
+
+ How do new Fixed Wireless Access Products work? 
+
+
+The functionality of Fixed LTE or 4G For Home products will remain the same. Product lifecycles, - sales, onboarding, order management, activation, billing, usage and termination processes will remain the same. Existing customer will receive higher allocation in the subsequent billing cycle. No customer migrations will be needed.
+New customers will be onboarded on the higher volumes only.
+
+
+Will the Fixed Wireless Access Products have FUP limits? 
+
+
+No. The new packages will not have any access limits for a given time.
+
+
+ Will Fixed Wireless Access customers have guaranteed internet speeds? 
+
+
+No. The new packages based on best of effort for each customer, in their access area or network cell. The network cell may have peaks and troughs in traffic, customers will experience low and high speeds respectively.
+
+
+What happens if I exhaust my bundle? 
+
+
+You are allowed to purchase same bundle as subscribed via M-Pesa, by dialing USSD *485#. You can purchase as many times within the month as desired. This payment is treated as a bill prepayment, so the monthly bill remains the same.
+
+
+ Can I move with the Fixed Wireless Access indoor router to another location and use it well? 
+
+
+No. Fixed Wireless usage conditions are restricted to network cells/locations to push required traffic, 4G or 5G. Chances are a customer may move out of these areas. Effective working of Fixed Wireless Access products is only guaranteed where signal strengths are already confirmed. This is done at sales and onboarding part of the journey, not meant to change.
+==============================

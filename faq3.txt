@@ -1,0 +1,116 @@
+FAQ 12:
+Question: Receipting and Invoicing
+Linked Answer: Can I invoice what has not been receipted? 
+
+
+
+
+You cannot invoice what has not been receipted
+
+
+The system will allow you to invoice only what has been receipted but not invoice
+
+
+
+
+ I cannot view my POÆs in the invoicing menu? 
+
+
+
+This could be because the PO has either been invoiced before or not receipted
+
+To confirm the above:
+
+
+Go to iSupplier home page
+
+
+Search for the PO number under search page and on the extreme left check out PO total, Receipt Total and Invoice Total to confirm status
+
+
+
+
+ Where should I escalate issues encountered on the portal for technical Assistance? 
+
+
+Write an email to: This email address is being protected from spambots. You need JavaScript enabled to view it.
+==============================
+FAQ 13:
+Question: SIM Registration Update Requirements
+Linked Answer: What is Sim Registration update?
+
+
+This a process where you are required to verify your Sim Registration documents by clicking on https://bit.ly/37RIJFG or visiting any Safaricom outlets countrywide. This is in line with Communication Authority guidelines.
+
+
+ How do I know that I need to update my details? 
+
+
+You can dial *106# and select option number one to check your Registration status.
+
+
+ What details are required to update my sim registration? 
+
+
+You will be required to submit the following documentation: Identification Document used during Registration (Original) and CustomerÆs signature
+
+
+ Should I carry a photocopy of my ID? 
+
+
+No. The Safaricom Agent will scan your ID at the shop. Alternatively, you can upload your Original ID photo by clicking on https://bit.ly/37RIJFG and follow the simple steps
+
+
+I did not register my line using my National ID. I used a different registration document. How do I update my details? 
+
+
+You are required to update your Sim Registration details based on the registration document used for registration of your line. This includes Alien ID, Military ID or Passports.
+
+
+ I did not register my line using my National ID. I used another personÆs (spouse/parent) registration details. How do I update my details? 
+
+
+The person that registered the line on your behalf can verify their Original ID details by clicking on https://bit.ly/37RIJFG and follow the simple steps. Should you wish to have the Registration details under your ID, you can both visit the nearest shop with your original IDs and request that ownership of the line be transferred to you.
+
+
+How can I know the numbers which are registered using my ID? 
+
+
+Dial *106# and access option 1: Check Registration Status to get a view of your status and numbers registered to your ID
+
+
+ Do I still need to visit the registration point even when I view my numbers via *106# and confirm that they are ok?
+
+
+No. Once you dial *106# and you are compliant, you do not need to visit the shop.
+
+
+ How long does the Sim registration update process take? 
+
+
+The process takes about 3 minutes to complete at the Safaricom Outlet. The agent will scan your original Identification document used during registration. These will be captured in the system together with your signature to complete your SIM registration process. Alternatively, self-update your sim registration and submit your Original ID details click on https://bit.ly/37RIJFG and follow the simple steps
+
+
+ What will happen to mobile numbers that I have not identified during the process of Sim Registration? 
+
+
+We will retain those numbers and verify their registration. If not claimed within the next 30 days, the lines will be recycled.
+
+
+ How many times can an agent update customer detail? 
+
+
+An agent will capture your details once.
+
+
+ What happens when the agent or Self Sim verification link has collected all my details? 
+
+
+The system will forward your details to Safaricom for checks and validations. You can Dial *106# to check the status of your registration at any time.
+
+ What happens if 1 capture the wrong details (mobile number and ID) when during the process of self-sim registration update? 
+
+
+The agent will get a prompt from the system requesting them to capture the correct details.
+==============================
+
